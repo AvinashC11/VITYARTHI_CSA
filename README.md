@@ -108,7 +108,7 @@ Current best model: **Random Forest Regressor**
 - **MAE**: 4.18
 
 ## Screenshots
-*Coming soon - visualization dashboard and prediction interface*
+*Uploaded file with extension .png*
 
 ## Testing
 Run unit tests:
@@ -128,8 +128,8 @@ python -m pytest tests/
 - Support for multi-class classification (grade categories)
 - Deep learning models for improved accuracy
 
-## Contributors
-- [Your Name] - VIT Bhopal
+## Contributor
+ AVINASH.C - 25BCY10032 VIT Bhopal
 
 ## License
 This project is developed for academic purposes as part of the VITyarthi Build Your Own Project initiative.
